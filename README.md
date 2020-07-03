@@ -1,2 +1,6 @@
-## Learning project
-It is just a checking file for the new skills.
+# Demo 
+
+some Description!
+
+## Subheader 
+ by watching tutorial on youtube
